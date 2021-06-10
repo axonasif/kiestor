@@ -1,0 +1,11 @@
+[package]
+name = "kiestor"
+version = "0.1.0"
+authors = ["AXON <axonasif@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+uinput-tokio = "0.1.35"
+tokio = "1.6.0"

@@ -1,3 +1,3 @@
-# aster
+# kiestor
 
 Wannabe android keymapper
